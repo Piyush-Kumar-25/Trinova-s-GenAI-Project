@@ -1,4 +1,4 @@
-# 📚 TRINOVA — AI Tutor with Context Pruning  
+# 📚 TRINOVA — Shiksha AI with Context Pruning  
 Turning dense textbooks into smart, efficient learning — powered by Retrieval & Context Pruning.
 
 ---
@@ -21,7 +21,7 @@ Educational textbooks (like NCERT) are often:
 ---
 
 # 💡 The Solution  
-TRINOVA AI Tutor is an intelligent learning system that:
+TRINOVA Shiksha AI is an intelligent learning system that:
 
 - Retrieves only the most relevant parts of a document using semantic search  
 - Applies Context Pruning to remove unnecessary information  
@@ -80,14 +80,13 @@ Response Output
 
 # 📁 Project Structure  
 
-Trinova-AI-Tutor/  
-├── app.py  
-├── requirements.txt  
-├── README.md  
-│  
-├── data/  
-│   ├── ncert/  
-│   └── user_uploads/  
+Trinova-Shiksha-AI/  
+├── App.css
+├── App.jsx  
+├── README.md 
+├── index.css
+├── main.jsx
+├── server (1).js  
 
 ---
 
@@ -101,8 +100,8 @@ Trinova-AI-Tutor/
 
 ## Step 1 — Clone Repo  
 
-git clone https://github.com/YOUR_USERNAME/Trinova-AI-Tutor.git  
-cd Trinova-AI-Tutor  
+git clone https://github.com/Piyush-Kumar-25/Trinova-s-GenAI-Project.git  
+cd Trinova-Shiksha-AI  
 
 ---
 
@@ -189,6 +188,6 @@ MIT License
 
 ## Version
 The current version of the project successfully implements context pruning and retrieval-based answering. Due to time constraints, further improvements such as enhanced answer formatting and advanced prompt optimization were not fully implemented. These enhancements can significantly improve answer quality and user experience in future iterations.
-# 💬 Final Note  
 
+# 💬 Final Note  
 TRINOVA — because learning should be fast, efficient, and accessible to everyone.
