@@ -1,0 +1,8 @@
+🌍 Real-World Use Case
+Designed for low-bandwidth and cost-sensitive environments like rural education systems, where minimizing API usage and efficient processing is critical.
+
+🔮 Future Improvements
+Integration with advanced LLM APIs
+Better UI/UX using React
+User authentication system
+Cloud deployment
