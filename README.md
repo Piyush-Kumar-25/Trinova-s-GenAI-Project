@@ -152,8 +152,8 @@ Designed for:
 
 # 🛠️ Tech Stack  
 
-Frontend: Streamlit  
-Backend: Python  
+Frontend: Streamlit, HTML, CSS, JavaScript  
+Backend: react.js  
 AI/ML: Sentence Transformers  
 Retrieval: FAISS  
 Processing: PyMuPDF  
