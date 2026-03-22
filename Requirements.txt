@@ -1,0 +1,24 @@
+#System Architecture
+User → Frontend UI → Backend API → PDF Processing → Embeddings → FAISS Index → Retrieval → Context Pruning → Response → Frontend
+
+
+#Tech Stack
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Python (Flask / FastAPI)
+
+AI / ML:
+- Sentence Transformers
+- FAISS (Vector Search)
+- NumPy
+
+File Processing:
+- PyMuPDF
+
+Other:
+- REST APIs
+- JSON
