@@ -3,6 +3,9 @@
 ## 🚀 Overview
 Trinova AI Tutor is a full-stack web application that allows users to interact with textbook PDFs using natural language queries. It provides answers, summaries, and explanations by intelligently retrieving relevant content from documents.
 
+## 👥 Team Trinova
+- Team Size: 3 Members  
+- Project developed for efficient, scalable AI-powered education in low-resource environments 
 
 ## 🎯 Features
 
